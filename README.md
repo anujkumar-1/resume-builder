@@ -30,17 +30,20 @@ A modern, user-friendly platform to create, customize, and download professional
 
 **Frontend**
 
-* React.js (UI Components & State Management)
-* CSS / Tailwind CSS (Styling)
+* HTML (UI)
+* CSS (Styling)
+* JS (Logic)
 
 **Backend**
 
 * Node.js + Express.js (API Server)
 * MySQL + Sequelize ORM (Database)
+* Axios
 
 **Other Tools**
 
 * JWT (Authentication)
+* AWS S3 (For storing PDF)
 * PDFKit (Resume PDF Generation)
 * Git & GitHub (Version Control)
 
